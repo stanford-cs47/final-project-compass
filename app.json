@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CS 47 Final Project",
-    "slug": "finalProject",
+    "name": "Compass",
+    "slug": "compass",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -25,6 +25,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Compass is a mobile application that connects students and community members who are seeking options other than a four-year-college right after high school. With Compass, users are able to create a timeline of what they’ve done, view other people’s timelines, and connect with others for ideas and inspiration for paths beyond the traditional college. \n"
   }
 }
